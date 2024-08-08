@@ -54,5 +54,5 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 ## Más informacion
 
-se elimino la ultima linea 07/08/2024
+Elio y Debora
 
